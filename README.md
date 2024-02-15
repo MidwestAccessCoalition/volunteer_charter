@@ -44,10 +44,11 @@ You will need Slack and Github to participate in this project. On an ad hoc basi
 #### Software Development Lifecycle
 1. **Discovery:** Right now, MAC's internal tech team is responsible for the discovery, user research, roadmapping, and spec-writing phases of the software development lifecycle. 
 2. **Development:** When Github issues are ready for devs to take on, they will be moved into the Ready to Work status of the project board with a `volunteer` label. Each ticket should have a size (smol, medium, large) and clear acceptance criteria to help you decide if it's a good fit to take on. To grab a ticket, assign yourself to it and move it to `In Progress` status.
-3. **Code Review:** When you are ready for a code review on your PR, move the issue to `Code Review/QA`.
-4. **Staging:** Once passed Code Review and QA, merge to main to deploy to Staging and move the issue to `Staging` status.
-5. **Production:** MAC tech team will deploy to Production, typically once a week. User-facing changes will be summarized in Release Notes and on the Help Center.
-6. **User support:** MAC's internal tech team handles user support issues and feedback, and funnels this back into the discovery process.
+3. Open a branch, develop on the branch, then open a pull request (PR).
+4. **Code Review:** When you are ready for a code review on your PR, move the issue to `Code Review/QA` and tag Nicole.
+5. **Staging:** Once passed Code Review and QA, merge to main to deploy to Staging and move the issue to `Staging` status.
+6. **Production:** MAC tech team will deploy to Production, typically once a week. User-facing changes will be summarized in Release Notes and on the Help Center.
+7. **User support:** MAC's internal tech team handles user support issues and feedback, and funnels this back into the discovery process.
 
 In the future, we would love to involve volunteers in all aspects of the Software Development Lifecyle as interest arises.
 

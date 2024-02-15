@@ -29,3 +29,21 @@ These principles should guide the work we choose to do and how we do it. When we
 - All learning backgrounds are welcome - formal education is not the only path to be a technologist
 - Test test test!
 
+## Logistics
+#### Communication channels
+
+#### Meeting cadence
+
+#### Software Development Lifecycle
+
+## Resources
+- User-facing product documentation can be found on the [Piggybank Cashbox Help Center](https://midwestaccesscoalition.notion.site/Piggybank-Cashbox-Help-Center-9f6012daf50047a4bc674b19fcda497b?pvs=74) site
+- Nicole Lopez, Directory of Technology at MAC and co-organizer of T4RJ, is the point person for:
+  - Technical questions
+  - Code reviews
+- Sarah Robinson, Technical Project Manager at MAC, is the point person for:
+  - Priority questions
+  - Product specs
+  - Logistics
+
+

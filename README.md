@@ -8,3 +8,14 @@ Welcome to the technical volunteering program at Midwest Access Coalition. This 
 - Build movement capacity - bringing volunteers into learning opportunities for reproductive justice and broadening support for RJ orgs
 - Create opportunities to contribute - everyone has a role in the movement; tech volunteering is a way to donate time, effort, and skills in place of financial contribution.
 - Create redundancy to promote longevity - creating this community of support for the project promotes its sustainability and avoids reliance on just one person
+
+## Guiding principles
+These principles should guide the work we choose to do and how we do it. When we are in doubt about next steps to take, we can always return to these guiding principles.
+
+- Center the end user, in particular their security, privacy, and autonomy
+- Collaboration over competition
+- Practicality over perfection
+- Resist false urgency - this is not a "move fast break things" project
+- Resist tech solutionism (not every problem can or should be solved with technology)
+- All learning backgrounds are welcome - formal education is not the only path to be a technologist
+- Test test test!
